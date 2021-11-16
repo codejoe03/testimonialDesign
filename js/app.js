@@ -22,7 +22,7 @@ const testimonials = [{
 	color: 'rgba(165, 94, 234,1.0)'
 },{
 	text: 'I hired Florin Pop based on others positive experiences, and I understand why he\'s so highly rated. His code is very clean, he communicates well, and he likes to offer alternative solutions.',
-	name: 'J. Kent Pepper',
+	name: 'A. Kent Pepper',
 	color: 'rgba(32, 191, 107,1.0)'
 }];
 
